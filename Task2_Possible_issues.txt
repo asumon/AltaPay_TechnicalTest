@@ -1,0 +1,11 @@
+# The following problems occurred while using the 'gradle run' Command : 
+ 
+==>> Compiler Error
+==>> Mysql Connector Java Issues
+
+After resolve on this issue then I have found two issues which are given below :
+
+
+FileParserFailed to parse file: 82242267.20210201T000000+0000.csv Mandatory element is missing from total row.
+
+FileParserFailed to parse file: 82242267.20210201T000000+0000.csv
